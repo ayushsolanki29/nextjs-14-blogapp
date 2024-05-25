@@ -1,0 +1,38 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+  }
+  .form input {
+    padding: 20px;
+    background-color: var(--bg);
+    color: var(--text);
+    border: none;
+    border-radius: 5px;
+  }
+  .form button {
+    padding: 20px;
+    cursor: pointer;
+    background-color: var(--btn);
+    font-weight: bold;
+    border: none;
+  
+    color: #fff;
+    border-radius: 5px;
+  }
+  .github button{
+    background-color: #24292e;
+    color: #fff;
+    padding: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+  }
+  .github{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 30px;
+  }

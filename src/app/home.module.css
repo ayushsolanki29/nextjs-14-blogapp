@@ -1,0 +1,72 @@
+.container {
+    display: flex;
+    gap: 50px; /* Reduced gap */
+  }
+  
+  .textContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 25px; /* Reduced gap */
+  }
+  
+  .title {
+    font-size: 48px; /* Reduced font-size */
+  }
+  
+  .desc {
+    font-size: 16px; /* Reduced font-size */
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 10px; /* Reduced gap */
+  }
+  
+  .button {
+    padding: 15px; /* Reduced padding */
+    min-width: 100px; /* Reduced min-width */
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .button:first-child {
+    background-color: var(--btn);
+    color: var(--text);
+  }
+  
+  .brands {
+    width: 400px; /* Reduced width */
+    height: 40px; /* Reduced height */
+    position: relative;
+    filter: grayscale(1);
+  }
+  
+  .imgContainer {
+    flex: 1;
+    position: relative;
+    
+  }
+  
+  @media (max-width: 1024px) {
+    .container {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .buttons {
+      justify-content: center;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .title {
+      font-size: 36px; /* Further reduced font-size */
+    }
+  
+    .brands {
+      width: 100%; /* Set width to 100% for smaller screens */
+    }
+  }
+  

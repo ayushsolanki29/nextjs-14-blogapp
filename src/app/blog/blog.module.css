@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .post {
+    width: 30%;
+  }
+
+  
+  @media screen and (max-width: 768px) {
+    .post {
+      width: 100%;
+    }
+  }

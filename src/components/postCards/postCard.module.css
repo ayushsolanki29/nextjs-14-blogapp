@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Reduced gap */
+  margin-bottom: 10px; /* Reduced margin */
+}
+
+.top {
+  display: flex;
+}
+
+.imgContainer {
+  width: 100%; /* Adjusted width */
+  height: 300px; /* Reduced height */
+  position: relative;
+}
+
+.img {
+  object-fit: cover;
+}
+
+.date {
+  font-size: 10px; /* Reduced font-size */
+  transform: rotate(270deg);
+  margin: auto;
+  white-space: nowrap;
+}
+
+.title {
+  width: 100%; /* Adjusted width */
+  font-size: 20px; /* Reduced font-size */
+  margin-bottom: 10px; /* Reduced margin */
+}
+
+.desc {
+  width: 100%; /* Adjusted width */
+  margin-bottom: 10px; /* Reduced margin */
+  font-weight: 300;
+  color: gray;
+}
+
+.link {
+  text-decoration: underline;
+}
