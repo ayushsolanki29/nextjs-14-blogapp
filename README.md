@@ -8,6 +8,7 @@ this app is for read blogs and upload blogs for other users with Better UI and L
 - Next JS 14
 - Mongo DB
 - other tools
+- database
 
 ## sample
 ![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/1.png)
