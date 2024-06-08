@@ -11,13 +11,13 @@ this app is for read blogs and upload blogs for other users with Better UI and L
 - database
 
 ## sample
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/1.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/2.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/3.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/4.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/5.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/6.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/7.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/8.png)
-![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/screenshot/9.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/1.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/2.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/3.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/4.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/5.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/6.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/7.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/8.png)
+![img](https://github.com/ayushsolanki29/nextjs-14-blogapp/blob/main/Screenshot/9.png)
 
